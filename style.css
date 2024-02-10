@@ -106,6 +106,7 @@ footer{
 }
 footer>a{
     text-decoration:none;
+    max-height: 50px;
 }
 footer>a:hover{
     text-decoration: underline;
